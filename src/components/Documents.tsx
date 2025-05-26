@@ -9,7 +9,7 @@ const allDocuments = [
     category: "Project Proposal",
     files: [
       { name: "Proposal Report - IT21164644 ", path: "IT21164644_Project Proposal.pdf" },
-      { name: "Proposal Report - IT21068478", path: "IT21142178_PROP0SAL.pdf" },
+      { name: "Proposal Report - IT21142178", path: "IT21142178_PROP0SAL.pdf" },
       { name: "Proposal Report - IT21191060", path: "IT2191060_Project_Proposal.pdf" },
     ],
   },
@@ -26,7 +26,7 @@ const allDocuments = [
     category: "Final Reports",
     files: [
       { name: "Final Report - IT21164644 ", path: "IT21164644_Project Proposal.pdf" },
-      { name: "Final Report - IT21068478", path: "IT21142178_PROP0SAL.pdf" },
+      { name: "Final Report - IT21142178", path: "IT21142178_PROP0SAL.pdf" },
       { name: "Final Report - IT21191060", path: "IT2191060_Final.pdf" },
       { name: "Final Group Report", path: "24-25j-158  -Final Group Report (1).pdf" },
     ],
