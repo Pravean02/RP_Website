@@ -10,7 +10,7 @@ const tools = [
   { name: "Vite", icon: "🚀", description: "Blazing fast dev server for React" },
   { name: "MySQL", icon: "🗄️", description: "Relational database management for structured financial data" },
   { name: "GitHub", icon: "🐙", description: "A platform for version control and collaboration, enabling developers to manage code, track changes, and automate workflows." 
-}
+},
   { name: "Figma", icon: "🎨", description: "UI/UX design and prototyping for the system’s frontend and user workflows" }, 
 ];
 
