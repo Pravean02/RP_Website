@@ -9,7 +9,8 @@ const tools = [
   { name: "FastAPI", icon: "⚡", description: "Lightweight Python backend" },
   { name: "Vite", icon: "🚀", description: "Blazing fast dev server for React" },
   { name: "MySQL", icon: "🗄️", description: "Relational database management for structured financial data" },
-  { name: "GitHub Actions", icon: "🔁", description: "Automation workflows for building, testing, deploying" },
+  { name: "GitHub", icon: "🐙", description: "A platform for version control and collaboration, enabling developers to manage code, track changes, and automate workflows." 
+}
   { name: "Figma", icon: "🎨", description: "UI/UX design and prototyping for the system’s frontend and user workflows" }, 
 ];
 
