@@ -8,7 +8,7 @@ const allDocuments = [
   {
     category: "Project Proposal",
     files: [
-      { name: "Proposal Report - IT21164644 ", path: "IT21164644_Project Proposal.pdf" },
+      { name: "Proposal Report - IT21164644 ", path: "D N Pathiratna_IT21164644_Project Proposal.pdf" },
       { name: "Proposal Report - IT21142178", path: "IT21142178_PROP0SAL.pdf" },
       { name: "Proposal Report - IT21191060", path: "IT2191060_Project_Proposal.pdf" },
     ],
@@ -34,7 +34,7 @@ const allDocuments = [
   {
     category: "Presentations",
     files: [
-      { name: "Proposal Presentation", path: "Loan Eligibility Prediction System.pdf" },
+      { name: "Proposal Presentation", path: "Hilma - Research Porposal ppt.pdf" },
       { name: "Progress Presentation 1", path: "Loan Eligibility Prediction System.pdf" },
       { name: "Progress Presentation 2", path: "Loan Eligibility Prediction System.pdf" },
       { name: "Final Presentation", path: "Loan Eligibility Prediction System.pdf" },
